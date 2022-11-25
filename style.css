@@ -1,0 +1,15 @@
+body{
+text-align:center;
+ background-color: cornflowerblue;
+}
+
+img{
+border-radius: 36px;     
+}
+
+h1{
+    font-size:56px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;   
+}
